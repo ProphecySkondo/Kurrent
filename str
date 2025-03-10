@@ -1,0 +1,3 @@
+--[[ Hello skidder, hope you have a wonderful time looking through all of these 😊 ]]--
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
